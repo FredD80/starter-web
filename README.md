@@ -15,3 +15,9 @@ Sample website with plenty of files for demos
 ## Dployment 
 
 This is a simple web project, deployment can be on any web server or even localfile system.
+
+
+## Copyright
+
+2023 Git.Training
+
