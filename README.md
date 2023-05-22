@@ -10,7 +10,7 @@ This example is a to show different parts of the Git repository and various comm
 ## Purpose
 
 Sample website with plenty of files for demos
-Added a line for rebase example
+Added a line for rebase example, then more changes from myfeature too.
 
 
 ## Dployment 
